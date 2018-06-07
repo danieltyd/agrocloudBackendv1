@@ -1,0 +1,2 @@
+FROM node
+EXPOSE 3789
